@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34bd87ec-e4d4-4574-ab05-515695aa3e72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\zidonghua\zidonghua\interface\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVvBCTqmhKl6qirsPuSP4zCjVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zidonghua\zidonghua\interface\Knowledge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.readXLs (1)">
+    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readXLs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Knowledge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Knowledge/readXLs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readXLs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\zidonghua\zidonghua\interface\Knowledge\readXLs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readXLs (1)" />
+        <item itemvalue="Python.readXLs" />
+        <item itemvalue="Python.log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34bd87ec-e4d4-4574-ab05-515695aa3e72" name="Default Changelist" comment="" />
+      <created>1577350938816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577350938816</updated>
+      <workItem from="1577350941442" duration="2903000" />
+      <workItem from="1577354726377" duration="13000" />
+      <workItem from="1577413258254" duration="9830000" />
+      <workItem from="1577699862187" duration="4705000" />
+    </task>
+    <task id="LOCAL-00001" summary="接口自动化">
+      <created>1577776001065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577776001065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="接口自动化" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口自动化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="10" key="CommitChangelistDialog2" timestamp="1577775998696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577775998696" />
+    <state x="279" y="222" key="FileChooserDialogImpl" timestamp="1577429269016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="222" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577429269016" />
+    <state x="637" y="325" width="272" height="273" key="Github.ShareDialog" timestamp="1577775790504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="325" width="272" height="273" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1577775790504" />
+    <state x="530" y="138" key="Github.UntrackedFilesDialog" timestamp="1577775809900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="138" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577775809900" />
+    <state width="1099" height="39" key="GridCell.Tab.0.bottom" timestamp="1577437251420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1099" height="39" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577437251420" />
+    <state width="1099" height="39" key="GridCell.Tab.0.center" timestamp="1577437251420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1099" height="39" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577437251420" />
+    <state width="1099" height="39" key="GridCell.Tab.0.left" timestamp="1577437251420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1099" height="39" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577437251420" />
+    <state width="1099" height="39" key="GridCell.Tab.0.right" timestamp="1577437251420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1099" height="39" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577437251420" />
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1577354705248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577354705248" />
+    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1577354705248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577354705248" />
+    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1577354705248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577354705248" />
+    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1577354705248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577354705248" />
+    <state x="165" y="110" key="SettingsEditor" timestamp="1577429670432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577429670432" />
+    <state x="449" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1577413406162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="337" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577413406162" />
+    <state x="1043" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577427073826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1043" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577427073826" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/interface$readXLs__1_.coverage" NAME="readXLs (1) Coverage Results" MODIFIED="1577427792574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Knowledge" />
+    <SUITE FILE_PATH="coverage/interface$log.coverage" NAME="log Coverage Results" MODIFIED="1577414097143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/interface$readXLs.coverage" NAME="readXLs Coverage Results" MODIFIED="1577426666139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
