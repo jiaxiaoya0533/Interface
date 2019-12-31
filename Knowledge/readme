@@ -1,0 +1,8 @@
+request接口框架搭建：https://www.cnblogs.com/wangxiaoqun/p/6924797.html
+
+logging日志框架：https://www.cnblogs.com/deeper/p/7404190.html
+主要包括四部分：
+Loggers: 可供程序直接调用的接口，app通过调用提供的api来记录日志
+Handlers: 决定将日志记录分配至正确的目的地
+Filters:对日志信息进行过滤， 提供更细粒度的日志是否输出的判断
+Formatters: 制定最终记录打印的格式布局

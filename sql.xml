@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+    <database name="test">
+        <table name="testtable">
+            <sql id="select_member">
+                SELECT * FROM rs_member_wallet_bill WHERE member_id=%s
+            </sql>
+        </table>
+
+        <table name="testtable">
+            <sql id="delete_user">
+                DELETE FROM rs_member WHERE email=%s
+            </sql>
+        </table>
+                <table name="select_t_bills">
+            <sql id="t_bank_org">
+                select workDate from t_bank_org
+            </sql>
+        </table>
+        <!--查询账单-->
+        <table name="select_t_bills">
+            <sql id="t_bills">
+                SELECT * FROM t_bills WHERE listId = '%s'
+            </sql>
+        </table>
+
+        <!--查询台账-->
+        <table name="select_t_credit_duebill">
+            <sql id="t_credit_duebill">
+                SELECT * FROM t_credit_duebill WHERE orderCode = '%s'
+            </sql>
+        </table>
+
+        <!--查询借据-->
+        <table name="select_t_loan_ledger">
+            <sql id="t_loan_ledger">
+                SELECT * FROM t_loan_ledger WHERE orderCode = '%s'
+            </sql>
+        </table>
+
+        <!--查询网银流水表-->
+        <table name="select_t_plan_flow_info">
+            <sql id="t_plan_flow_info">
+                SELECT * FROM t_plan_flow_info WHERE bankserialid = '%s'
+            </sql>
+        </table>
+
+                <!--查询网银流水表-->
+        <table name="select_t_plan_info">
+            <sql id="t_plan_info">
+                select * from t_plan_info WHERE plan_id = '%s'
+            </sql>
+        </table>
+    </database>
+</page>
